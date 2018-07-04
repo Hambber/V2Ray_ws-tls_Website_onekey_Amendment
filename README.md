@@ -5,7 +5,7 @@
 ```
 wget -N --no-check-certificate git.io/v.sh && chmod +x v.sh && bash v.sh
 ```
-[新手请使用 Debian8 纯净系统安装 Centos 7也可以、但不要用Debian 9！]
+[新手请使用 Debian8 纯净系统安装 Centos 7也可以、但不要用Debian 9]
 
 备用1：一键更换新的 UUID，同时升级 Windows 客户端 （new）
 ```
